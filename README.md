@@ -1,16 +1,81 @@
-## Hi there 👋
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Justin-Young94%22%2C%22name%22%3A%22Justin%20T%20Young%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Aspiring%20IT%20professional%20passionate%20about%20cybersecurity%2C%20networking%20and%20AI.%22%2C%22themeIdx%22%3A1%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%22U.S.%20Army%20Veteran%22%5D%2C%22customHeadlines%22%3A%5B%22U.S.%20Army%20Veteran%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22GitHub%22%2C%22desc%22%3A%22Established%20a%20central%20GitHub%20repository%20to%20showcase%20personal%20projects%2C%20version-controlled%20codebases%2C%20and%20ongoing%20technical%20development.%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2F%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
-<!--
-**Justin-Young94/Justin-Young94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github.com/Justin-Young94.png" width="150" style="border-radius:50%;border:4px solid #2da44e"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Justin T Young
+
+**Justin T Young**
+
+*U.S. Army Veteran*
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Justin-Young94-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justin-Young94)
+
+</div>
+
+---
+
+## Professional Summary
+
+Aspiring IT professional passionate about cybersecurity, networking and AI.
+
+---
+
+## Skills Learned
+
+*Select skills in the builder to display them here.*
+
+---
+
+## Course Portfolio
+
+<details>
+<summary><strong>Course 1: Networking I</strong></summary>
+
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| GitHub | Established a central GitHub repository to showcase personal projects, version-controlled codebases, and ongoing technical development. | ✅ Complete | [Open](https://github.com/) |
+
+</details>
+
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 4: Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 5: Server I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+---
+
+<div align="center">
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+</div>
